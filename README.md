@@ -1,0 +1,1 @@
+The work is dedicated to finding the time complexity, data usage and stability of the algorithm. With the time taken i will create a graph and show how the time complexity works when the data keeps increasing.![image](https://github.com/user-attachments/assets/de650a10-91cd-4d52-8c89-9c76bfba3d26)
